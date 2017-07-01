@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/52846/documents/visual studio 2017/Projects/Game-of-Life/Game-of-Life/Content/Automaton.bmp</File>
+    <File>c:/users/52846/documents/visual studio 2017/Projects/Game-of-Life/Game-of-Life/Content/Cursor.bmp</File>
+  </SourceFiles>
+</SourceFileCollection>
