@@ -184,7 +184,7 @@ namespace Game1
 					}
 				}
 			}
-			//鼠标
+			//光标
 			SpriteBatch.Draw(CursorImg, new Vector2(mouseState.X / 3 * 3, mouseState.Y / 3 * 3), Color.White);
 			//画完了
 			SpriteBatch.End();
